@@ -1,2 +1,2 @@
 # R-study
-convert R code to python code
+convert Bioinformatics R code to python code
